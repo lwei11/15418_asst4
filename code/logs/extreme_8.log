@@ -1,0 +1,10 @@
+Number of processes: 8
+Simulated annealing probability parameter: 0.1
+Simulated annealing iterations: 5
+Input file: ./inputs/timeinput/extreme_4096.txt
+Parallel mode: A
+Batch size: 8
+Initialization time (sec): 0.9034894950
+Computation time (sec): 10.8504804070
+Max occupancy: 6
+Total cost: 24621670

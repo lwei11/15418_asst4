@@ -1,0 +1,10 @@
+Number of processes: 4
+Simulated annealing probability parameter: 0.1
+Simulated annealing iterations: 5
+Input file: ./inputs/timeinput/hard_4096.txt
+Parallel mode: A
+Batch size: 8
+Initialization time (sec): 0.5004617370
+Computation time (sec): 4.3793708120
+Max occupancy: 3
+Total cost: 1048080
