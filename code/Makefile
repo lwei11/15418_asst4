@@ -14,3 +14,9 @@ $(APP_NAME): $(OBJS)
 
 clean:
 	/bin/rm -rf *~ *.o $(APP_NAME) *.class
+
+FILES= *.h \
+	*.cpp 
+
+handin.tar: $(FILES)
+	tar cvf handin.tar $(FILES)
